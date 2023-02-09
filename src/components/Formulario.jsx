@@ -18,7 +18,7 @@ const Formulario = () => {
     return (
         <form>
             <FormControl fullWidth>
-                <InputLabel>Categoría</InputLabel>
+                <InputLabel >Categoría</InputLabel>
                 <Select
                     label="Categoría"
                     onChange={handleChangeCategoria}
